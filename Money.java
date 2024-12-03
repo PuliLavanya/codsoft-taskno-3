@@ -50,7 +50,7 @@ int Balance;
         else { 
             System.out.println("Insufficient Balance"); 
         } 
-    menu();
+   // menu();
     } 
     public  void deposit() 
     {  
